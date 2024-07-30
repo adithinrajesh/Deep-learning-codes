@@ -1,2 +1,2 @@
-# Deep-learning-basics
-This repo contains basic codes for understanding deep learning concepts and codes.
+# Deep-learning-Codes
+A collection of fundamental deep learning concepts and practical implementations, covering essential techniques and algorithms.
